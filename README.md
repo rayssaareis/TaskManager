@@ -13,7 +13,7 @@ ID
 Descrição
 Status (✔ || ❌)
 
-✔ Concluir tarefas
+Concluir tarefas
 Marcação de tarefas como concluídas a partir do ID informado.
 
 \Remover tarefas
